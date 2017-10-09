@@ -26,3 +26,5 @@ Launch RViz
 [fci-docs]: https://frankaemika.github.io/docs
 [travis-status]: https://travis-ci.org/frankaemika/franka_ros.svg?branch=kinetic-devel
 [travis]: https://travis-ci.org/frankaemika/franka_ros
+
+test
